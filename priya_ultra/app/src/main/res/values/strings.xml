@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PRIYA</string>
+    <string name="accessibility_service_description">PRIYA uses this to open apps, tap buttons, type text, scroll, and navigate your device on your command. It only acts when you ask PRIYA to, and never records screen content in the background.</string>
+</resources>
